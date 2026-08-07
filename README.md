@@ -59,13 +59,13 @@
 ---
 
 #### 🌐 Отработка тестового задания "OpenSearch + OpenSearch Dashboards + Logstash"
-![nn](5.png)
+![LetsDefend ph1](5.png)
 > **Настройка визуализации в OpenSearch Dashboards: Date Histogram по полю @timestamp для построения распределения записей по часам и определения пика активности.
 
 ---
 
 #### 🔐 Экскурсия в SOC подразделение Сбера г.Москва / буткемп по обучению SOC L1 специалиста в S7
-![PDQL](6.jpg)
-![PDQL](7.jpg)
+![LetsDefend ph1](6.png)
+![LetsDefend ph1](7.png)
 
 
