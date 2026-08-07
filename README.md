@@ -65,7 +65,7 @@
 ---
 
 #### 🔐 Экскурсия в SOC подразделение Сбера г.Москва / буткемп по обучению SOC L1 специалиста в S7
-![SOC_SBER](images/6.png)
-![S7](images/7.png)
+![SOC_SBER](images/6.jpg)
+![S7](images/7.jpg)
 
 
