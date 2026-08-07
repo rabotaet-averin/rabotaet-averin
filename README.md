@@ -68,4 +68,4 @@
 ![SOC_SBER](images/6.jpg)
 ![S7](images/7.jpg)
 
-
+<table> <tr> <td><img src="images/6.jpg" width="380" alt="Экскурсия в SOC Сбера"></td> <td><img src="images/7.jpg" width="380" alt="Буткемп S7 Airlines"></td> </tr> <tr> <td align="center"><b>Экскурсия в SOC Сбера, Москва</b></td> <td align="center"><b>Интенсив SOC L1 в S7 Airlines</b></td> </tr> </table>
