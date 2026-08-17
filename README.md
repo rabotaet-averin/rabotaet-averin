@@ -69,9 +69,6 @@
     <td><img src="images/SNS3.png" width="380" alt="Secret Net Studio настройка 2"></td>
   </tr>
   <tr>
-    <td align="center"><b>Настройка политик безопасности</b></td>
-    <td align="center"><b>Управление доступом и аудит</b></td>
-  </tr>
 </table>
 
 ---
